@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recopilacion>
+  <poema>
+    <titulo>La casa de Bernarda Alba</titulo>
+    <autor>
+      <nombre>Federico García Lorca</nombre>
+      <fecha_nacimiento>5 de junio de 1898</fecha_nacimiento>
+      <fecha_muerte>19 de agosto de 1936</fecha_muerte>
+      <movimiento>Generación del 27</movimiento>
+    </autor>
+    <tematica>Tragedia familiar</tematica>
+    <estilo>Poesía dramática</estilo>
+    <estrofas>
+      <estrofa tipo="cuarteto">
+        <linea>En un pueblo de Andalucía,</linea>
+        <linea>vive Bernarda Alba, una viuda rica.</linea>
+        <linea>...</linea>
+        <linea>...</linea>
+      </estrofa>
+      <estrofa tipo="terceto">
+        <linea>...</linea>
+        <linea>...</linea>
+        <linea>...</linea>
+      </estrofa>
+      <estrofa tipo="cuarteto">
+        <linea>...</linea>
+        <linea>...</linea>
+        <linea>...</linea>
+        <linea>...</linea>
+      </estrofa>
+      <!-- y así sucesivamente con cada estrofa y línea del poema -->
+    </estrofas>
+  </poema>
+  
+  <poema>
+    <!-- información del segundo poema -->
+  </poema>
+  
+  <!-- y así sucesivamente con cada poema de la recopilación -->
+</recopilacion>
